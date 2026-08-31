@@ -1,16 +1,10 @@
 Package: jr346
 Type: Package
-Title: What the Package Does (Title Case)
+Title: GEOG 346 Coursework
 Version: 0.1.0
-Authors@R: c(
-    person(
-      "Jane", "Doe",
-      email = "jane@example.com",
-      role = c("aut", "cre")
-    )
-  )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Author: Juliana Reynolds 
+Maintainer: Juliana Reynolds <jureynolds@clarku.edu>
+Description: Package for GEOG 346
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
